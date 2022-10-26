@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1666761985 source:c:\users\lucia\desktop\actividad\lllll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"vacuna.h"
+	"ciudadano.h"
+
+1666762562 c:\users\lucia\desktop\actividad\lllll\vacuna.h
+
+1666762395 c:\users\lucia\desktop\actividad\lllll\ciudadano.h
+
+1666762562 source:c:\users\lucia\desktop\actividad\lllll\vacuna.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"vacuna.h"
+
+1666762701 source:c:\users\lucia\desktop\actividad\lllll\ciudadano.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"vacuna.h"
+	"ciudadano.h"
+
